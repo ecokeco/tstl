@@ -1,0 +1,92 @@
+#!/bin/bash
+
+python resizeDataset.py lomax lomax1k5_0 1500 -1 -1 3
+python resizeDataset.py lomax lomax9k_0 9000 -1 -1 3
+python resizeDataset.py lendb lendb1k5_0 1500 -1 -1 3
+python resizeDataset.py lendb lendb9k_0 9000 -1 -1 3
+python resizeDataset.py stead stead1k5_0 1500 -1 -1 3
+python resizeDataset.py stead stead9k_0 9000 -1 -1 3
+python resizeDataset.py speech8khz speech8khz1k5_0 1500 -1 -1 3
+python resizeDataset.py speech8khz speech8khz9k_0 9000 -1 -1 3
+python resizeDataset.py emg emg1k5_0 1500 -1 -1 3
+python resizeDataset.py emg emg9k_0 9000 -1 -1 3
+python resizeDataset.py sp500 sp5008khz1k5_0 1500 -1 -1 3
+python resizeDataset.py sp500 sp5009k_0 9000 -1 -1 3
+
+python resizeDataset.py lomax lomax1k5_1 1500 -1 -1 3
+python resizeDataset.py lomax lomax9k_1 9000 -1 -1 3
+python resizeDataset.py lendb lendb1k5_1 1500 -1 -1 3
+python resizeDataset.py lendb lendb9k_1 9000 -1 -1 3
+python resizeDataset.py stead stead1k5_1 1500 -1 -1 3
+python resizeDataset.py stead stead9k_1 9000 -1 -1 3
+python resizeDataset.py speech8khz speech8khz1k5_1 1500 -1 -1 3
+python resizeDataset.py speech8khz speech8khz9k_1 9000 -1 -1 3
+python resizeDataset.py emg emg1k5_1 1500 -1 -1 3
+python resizeDataset.py emg emg9k_1 9000 -1 -1 3
+python resizeDataset.py sp500 sp5008khz1k5_1 1500 -1 -1 3
+python resizeDataset.py sp500 sp5009k_1 9000 -1 -1 3
+
+python resizeDataset.py lomax lomax1k5_2 1500 -1 -1 3
+python resizeDataset.py lomax lomax9k_2 9000 -1 -1 3
+python resizeDataset.py lendb lendb1k5_2 1500 -1 -1 3
+python resizeDataset.py lendb lendb9k_2 9000 -1 -1 3
+python resizeDataset.py stead stead1k5_2 1500 -1 -1 3
+python resizeDataset.py stead stead9k_2 9000 -1 -1 3
+python resizeDataset.py speech8khz speech8khz1k5_2 1500 -1 -1 3
+python resizeDataset.py speech8khz speech8khz9k_2 9000 -1 -1 3
+python resizeDataset.py emg emg1k5_2 1500 -1 -1 3
+python resizeDataset.py emg emg9k_2 9000 -1 -1 3
+python resizeDataset.py sp500 sp5008khz1k5_2 1500 -1 -1 3
+python resizeDataset.py sp500 sp5009k_2 9000 -1 -1 3
+
+python resizeDataset.py lomax lomax1k5_3 1500 -1 -1 3
+python resizeDataset.py lomax lomax9k_3 9000 -1 -1 3
+python resizeDataset.py lendb lendb1k5_3 1500 -1 -1 3
+python resizeDataset.py lendb lendb9k_3 9000 -1 -1 3
+python resizeDataset.py stead stead1k5_3 1500 -1 -1 3
+python resizeDataset.py stead stead9k_3 9000 -1 -1 3
+python resizeDataset.py speech8khz speech8khz1k5_3 1500 -1 -1 3
+python resizeDataset.py speech8khz speech8khz9k_3 9000 -1 -1 3
+python resizeDataset.py emg emg1k5_3 1500 -1 -1 3
+python resizeDataset.py emg emg9k_3 9000 -1 -1 3
+python resizeDataset.py sp500 sp5008khz1k5_3 1500 -1 -1 3
+python resizeDataset.py sp500 sp5009k_3 9000 -1 -1 3
+
+python resizeDataset.py lomax lomax1k5_4 1500 -1 -1 3
+python resizeDataset.py lomax lomax9k_4 9000 -1 -1 3
+python resizeDataset.py lendb lendb1k5_4 1500 -1 -1 3
+python resizeDataset.py lendb lendb9k_4 9000 -1 -1 3
+python resizeDataset.py stead stead1k5_4 1500 -1 -1 3
+python resizeDataset.py stead stead9k_4 9000 -1 -1 3
+python resizeDataset.py speech8khz speech8khz1k5_4 1500 -1 -1 3
+python resizeDataset.py speech8khz speech8khz9k_4 9000 -1 -1 3
+python resizeDataset.py emg emg1k5_4 1500 -1 -1 3
+python resizeDataset.py emg emg9k_4 9000 -1 -1 3
+python resizeDataset.py sp500 sp5008khz1k5_4 1500 -1 -1 3
+python resizeDataset.py sp500 sp5009k_4 9000 -1 -1 3
+
+python resizeDataset.py lomax lomax1k5_5 1500 -1 -1 3
+python resizeDataset.py lomax lomax9k_5 9000 -1 -1 3
+python resizeDataset.py lendb lendb1k5_5 1500 -1 -1 3
+python resizeDataset.py lendb lendb9k_5 9000 -1 -1 3
+python resizeDataset.py stead stead1k5_5 1500 -1 -1 3
+python resizeDataset.py stead stead9k_5 9000 -1 -1 3
+python resizeDataset.py speech8khz speech8khz1k5_5 1500 -1 -1 3
+python resizeDataset.py speech8khz speech8khz9k_5 9000 -1 -1 3
+python resizeDataset.py emg emg1k5_5 1500 -1 -1 3
+python resizeDataset.py emg emg9k_5 9000 -1 -1 3
+python resizeDataset.py sp500 sp5008khz1k5_5 1500 -1 -1 3
+python resizeDataset.py sp500 sp5009k_5 9000 -1 -1 3
+
+python resizeDataset.py lomax lomax1k5_6 1500 -1 -1 3
+python resizeDataset.py lomax lomax9k_6 9000 -1 -1 3
+python resizeDataset.py lendb lendb1k5_6 1500 -1 -1 3
+python resizeDataset.py lendb lendb9k_6 9000 -1 -1 3
+python resizeDataset.py stead stead1k5_6 1500 -1 -1 3
+python resizeDataset.py stead stead9k_6 9000 -1 -1 3
+python resizeDataset.py speech8khz speech8khz1k5_6 1500 -1 -1 3
+python resizeDataset.py speech8khz speech8khz9k_6 9000 -1 -1 3
+python resizeDataset.py emg emg1k5_6 1500 -1 -1 3
+python resizeDataset.py emg emg9k_6 9000 -1 -1 3
+python resizeDataset.py sp500 sp5008khz1k5_6 1500 -1 -1 3
+python resizeDataset.py sp500 sp5009k_6 9000 -1 -1 3
